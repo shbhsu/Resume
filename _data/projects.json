@@ -1,0 +1,29 @@
+{
+    "1": [
+        {
+            "image": "images/EC.png",
+            "title": "Electronic Commerce System"
+        },
+        {
+            "image": "images/dashboard.png",
+            "title": "Web Dashboard"
+        },
+        {
+            "image": "images/ERP.png",
+            "title": "Enterprise Resource Planning System"
+        },
+        {
+            "image": "images/officialweb.png",
+            "title": "Official Website"
+        },
+        {
+            "image": "images/android.png",
+            "title": "Android Application"
+        },
+        {
+            "image": "images/CRM.png",
+            "title": "Customer Relationship Management System"
+        }
+    ]
+    
+}

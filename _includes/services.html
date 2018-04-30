@@ -1,0 +1,30 @@
+<!-- services -->
+<div class="services" id="services">
+	<div class="container">
+		<h3 class="w3_head w3_head1">What I can do for you
+			<span>Services</span>
+		</h3>
+	</div>
+
+
+
+	<div class="agileits_services_grids_bottom">
+		<div class="container">
+
+			{% for service in site.data.services %}
+
+			<div class="col-md-3 agileits_service_grid_btm_left">
+				<div class="agileits_service_grid_btm_left1">
+					<div class="agileits_service_grid_btm_left2">
+						<i class="fa {{service[1]}} " aria-hidden="true"></i>
+						<h5>{{service[0]}}</h5>
+					</div>
+				</div>
+			</div>
+			{% endfor %}
+
+			<div class="clearfix"> </div>
+		</div>
+	</div>
+</div>
+<!-- //services -->

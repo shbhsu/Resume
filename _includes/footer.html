@@ -1,0 +1,120 @@
+<!--footer-->
+<div class="contact" id="contact">
+    <h3 class="w3_head w3_head1">Contact Me
+        <span>Get in touch with me</span>
+    </h3>
+    <!-- <div class="col-md-5 contact-agileits-w3layouts">
+        <form action="#" method="post">
+            <input type="text" name="Your Name" placeholder="Name" required="">
+            <input type="email" name="Your Email" placeholder="Email" required="">
+            <input type="text" name="Phone Number" placeholder="Number" required="">
+            <textarea name="Message" placeholder="Message" required=""></textarea>
+            <input type="submit" value="Submit">
+        </form>
+    </div> -->
+
+
+    <div class="col-md-12 contact-map-right">
+        <div id="map"></div>
+        <!-- Map-JavaScript -->
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+        <script type="text/javascript">
+            google.maps.event.addDomListener(window, 'load', init);
+            function init() {
+                var mapOptions = {
+                    zoom: 11,
+                    center: new google.maps.LatLng({{site.data.about.Lat}}, {{site.data.about.Lng}}),
+                    styles: [{ "featureType": "all", "elementType": "labels.text.fill", "stylers": [{ "saturation": 36 }, { "color": "#000000" }, { "lightness": 40 }] }, { "featureType": "all", "elementType": "labels.text.stroke", "stylers": [{ "visibility": "on" }, { "color": "#000000" }, { "lightness": 16 }] }, { "featureType": "all", "elementType": "labels.icon", "stylers": [{ "visibility": "off" }] }, { "featureType": "administrative", "elementType": "geometry.fill", "stylers": [{ "color": "#000000" }, { "lightness": 20 }] }, { "featureType": "administrative", "elementType": "geometry.stroke", "stylers": [{ "color": "#000000" }, { "lightness": 17 }, { "weight": 1.2 }] }, { "featureType": "landscape", "elementType": "geometry", "stylers": [{ "color": "#000000" }, { "lightness": 20 }] }, { "featureType": "poi", "elementType": "geometry", "stylers": [{ "color": "#000000" }, { "lightness": 21 }] }, { "featureType": "road.highway", "elementType": "geometry.fill", "stylers": [{ "color": "#000000" }, { "lightness": 17 }] }, { "featureType": "road.highway", "elementType": "geometry.stroke", "stylers": [{ "color": "#000000" }, { "lightness": 29 }, { "weight": 0.2 }] }, { "featureType": "road.arterial", "elementType": "geometry", "stylers": [{ "color": "#000000" }, { "lightness": 18 }] }, { "featureType": "road.local", "elementType": "geometry", "stylers": [{ "color": "#000000" }, { "lightness": 16 }] }, { "featureType": "transit", "elementType": "geometry", "stylers": [{ "color": "#000000" }, { "lightness": 19 }] }, { "featureType": "water", "elementType": "geometry", "stylers": [{ "color": "#000000" }, { "lightness": 17 }] }]
+                };
+                var mapElement = document.getElementById('map');
+                var map = new google.maps.Map(mapElement, mapOptions);
+                var marker = new google.maps.Marker({
+                    position: new google.maps.LatLng({{site.data.about.Lat}}, {{site.data.about.Lng}}),
+                    map: map,
+                });
+            }
+        </script>
+        <!-- //Map-JavaScript -->
+
+    </div>
+    <div class="clearfix"></div>
+</div>
+<div class="contact-info">
+    <div class="container">
+        <div class="col-md-6 contact-grids">
+            <h5>Find me</h5>
+            <div class="w3_agileits_social_media-footer">
+                <ul>
+                   
+                    <li>
+                            <a target="_bland" href="{{site.data.about.banner.LinkedIn}}" class="wthree_LinkedIn">
+                                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                                </a>
+                    </li>
+                    <li>
+                            <a target="_bland" href="{{site.data.about.banner.GitHub}}" class="wthree_github">
+                                    <i class="fa fa-github" aria-hidden="true"></i>
+                                </a>
+                    </li>
+                    <li>
+                            <a target="_bland" href="{{site.data.about.banner.FaceBook}}" class="wthree_behance">
+                                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                                </a>
+                      
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-md-6 contact-grids contact-mid">
+            <h5>Contact Info</h5>
+            <ul>
+                <!-- <li>
+                    <i class="fa fa-phone" aria-hidden="true"></i>(012) 345 6789</li> -->
+                <li>
+                    <i class="fa fa-map-marker" aria-hidden="true"></i>{{site.data.about.Address}} </li>
+                <li>
+                    <i class="fa fa-envelope-o" aria-hidden="true"></i>
+                    <a href="mailto:{{site.data.about.Email}}">{{site.data.about.Email}}</a>
+                </li>
+            </ul>
+        </div>
+        <!-- <div class="col-md-4 contact-grids">
+            <h5>My Twitter</h5>
+            <div class="callbacks_container">
+                <ul class="rslides" id="slider3">
+                    <li>
+                        <i class="fa fa-twitter" aria-hidden="true"></i>Praesent imperdiet diam sagittis, egestas
+                        <a href="#" class="mail">
+                            @http://t.co/9vslJFpW</a>
+                        <span>ABOUT 15 MINS</span>
+                    </li>
+                    <li>
+                        <i class="fa fa-twitter" aria-hidden="true"></i>Diam sagittis, egestas praesent imperdiet
+                        <a href="#" class="mail">
+                            @http://t.co/9vslJFpW</a>
+                        <span>ABOUT 2 HOURS</span>
+                    </li>
+                    <li>
+                        <i class="fa fa-twitter" aria-hidden="true"></i>Imperdiet diam sagittis, praesent egestas
+                        <a href="#" class="mail">
+                            @http://t.co/9vslJFpW</a>
+                        <span>ABOUT 3 DAYS</span>
+                    </li>
+                    <li>
+                        <i class="fa fa-twitter" aria-hidden="true"></i>Egestas praesent imperdiet diam sagittis
+                        <a href="#" class="mail">
+                            @http://t.co/9vslJFpW</a>
+                        <span>ABOUT 1 WEEK</span>
+                    </li>
+                </ul>
+            </div>
+        </div> -->
+        <div class="clearfix"></div>
+    </div>
+</div>
+<div class="copy-w3-agile" style="display: none;">
+    <p>Copyright 2017 My Info. All Rights Reserved | Design By
+        <a href="http://w3layouts.com/">W3layouts</a>
+    </p>
+</div>
+<!--//footer-->

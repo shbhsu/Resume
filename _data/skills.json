@@ -1,0 +1,22 @@
+{
+    "HTML":"90",
+    "CSS":"80",
+    "Javascript":"80",
+    "ASP.NET":"70",
+    "Jquery":"70",
+    "Node.js":"70",
+    "SQL":"75",
+    "Jekyll":"70",
+    "Git/Github":"65",
+
+    "Responsive Web Design":"80",
+    "Google Analytics":"70",
+    "Data Mining":"60",
+    "Android/Java":"70",
+    "C#":"80",
+    "Vue":"60",
+    "Progressive web app":"60",
+    "Live Broadcast":"60",
+    "C/C++":"50"
+    
+}
