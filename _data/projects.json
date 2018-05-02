@@ -5,20 +5,21 @@
             "title": "Electronic Commerce System"
         },
         {
-            "image": "images/dashboard.png",
-            "title": "Web Dashboard"
-        },
-        {
             "image": "images/ERP.png",
             "title": "Enterprise Resource Planning System"
         },
         {
-            "image": "images/officialweb.png",
-            "title": "Official Website"
+            "image": "images/webapp.png",
+            "title": "Web App"
         },
+      
         {
             "image": "images/android.png",
-            "title": "Android Application"
+            "title": "Android Native Application"
+        },
+        {
+            "image": "images/officialweb.png",
+            "title": "Official Website"
         },
         {
             "image": "images/CRM.png",

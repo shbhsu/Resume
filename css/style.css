@@ -944,7 +944,7 @@ section.mid-w3layouts a:hover {
 }
 .w3agile-text.w3agile-text-small h5, .grid_w3l .w3agile-text h5 {
     font-size: 2em;
-    padding: 2.6em 0 0;
+    padding: 4.6em 0 0;
 }
 .grid_w3l {
     width: 48.5%;
@@ -1891,7 +1891,7 @@ a.callbacks_nav.callbacks1_nav.prev {
 		width: 100%;
 	}
 	.agileits_service_grid_btm_left {
-		margin-bottom: 2em;
+		margin-bottom: 0em;
 	}
 	.agileits_service_grid_btm_left:nth-child(3) {
 		margin-bottom: 0!important;
@@ -2400,18 +2400,18 @@ a.callbacks_nav.callbacks1_nav.prev {
 }
 @media(max-width:414px){
 	.banner {
-		min-height: 29em;
+		min-height: 100vh;
 	}
 	.w3_agileits_social_media {
-		top: 7.2em;
+		top: 35vh;
 		left: 0.8em;
 	}
 	.banner-image-w3layouts img {
-		width: 157px;
+		width: 210px;
 		right: 0%;
 	}
 	.agile_banner_info {
-		margin: 2em 0 0em 1.5em;
+		margin: 25vh 0 0em 1.5em;
 	}
 	.header {
 		padding: 1.2em 1.5em 0;
