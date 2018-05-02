@@ -3,14 +3,14 @@
         
             {
                 "Year": "2017-2018",
-                "job": "Public Digital Innovation Space (PDIS), The Executive Yuan/<span>Software Engineer</span>",
+                "job": "Software Engineer / <span>Public Digital Innovation Space, The Executive Yuan<span>",
                 "desciption": "I served in the PDIS under the Digital Minister Tang. I am responsible for software development and live broadcast."
             }
         ,
         
             {
                 "Year": "2015-2017",
-                "job": "Shinda co. ltd/<span>Software/Business Intelligence Engineer</span>",
+                "job": "Software/Business Intelligence Engineer / <span>Shinda co. ltd</span>",
                 "desciption": "I learned a lot in a team that grew up, not just in technology, communication, teamwork, or even management. I developed some web projects here."
             }
         
@@ -18,14 +18,14 @@
     "Educations": [
         {
             "Year": "2015-2017",
-            "job": "Fu Jen University/<span>Master of Computer Science and Information Engineering</span>",
+            "job": "Master of Computer Science and Information Engineering / <span>Fu Jen University</span>",
             "desciption": "During the period of the Institute, in addition to academic research, in order to accumulate work experience I worked as a part-time information engineer and managed time effectively.My research is about web traffic."
         }
     ,
     
         {
             "Year": "2012-2015",
-            "job": "Ming Chuan University/<span>Bachelor of Science and Information Engineering</span>",
+            "job": "Bachelor of Computer Science and Information Engineering / <span>Ming Chuan University</span>",
             "desciption": "During my college years, I worked hard to build basic skills. In order to improve my abilities, I developed the Android application of the school library. The graduation thesis was a  web-based data mining system implementation."
         }
     ]
