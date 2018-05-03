@@ -11,7 +11,7 @@
 					<!-- <h4>
 							<span class="glyphicon glyphicon-cog"></span> Technical Skills </h4> -->
 					{% for skill in site.data.skills limit: 9%}
-					<h6>{{skill[0]}}</h6>
+					<h6><i class="fa fa-thumbs-up"></i> {{skill[0]}}</h6>
 					<!-- <div class="progress">
 						<div class="progress-bar progress-bar-striped active" style="width: {{skill[1]}}%">
 						</div>
@@ -23,7 +23,7 @@
 					<!-- <h4>
 							<span class="glyphicon glyphicon-briefcase"></span> Professional Skills </h4> -->
 					{% for skill in site.data.skills limit: 9 offset: 9%}
-					<h6>{{skill[0]}}</h6>
+					<h6><i class="fa fa-thumbs-o-up"></i>{{skill[0]}}</h6>
 					<!-- <div class="progress">
 						<div class="progress-bar progress-bar-striped active" style="width: {{skill[1]}}%">
 						</div>
