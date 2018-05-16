@@ -4,6 +4,13 @@
 
 	
 <script src="../js/cookie.js"></script>
+
+	{% include head.html %}
+
+
+<body>
+	{{ content }}
+</body>
 <script type="text/javascript">
 	//set Lng
 	var lng = getCookie('Lng');
@@ -21,11 +28,4 @@
 			window.location = "/en/";
 	}
 </script> 
-	{% include head.html %}
-
-
-<body>
-	{{ content }}
-</body>
-
 </html>
