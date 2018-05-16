@@ -1,32 +1,69 @@
 {
-    "Work_experiences": [
-        
+    "en":
+    {
+        "Work_experiences": [
+            
+                {
+                    "Year": "2017-2018",
+                    "job": "Software Engineer in (Alternative Military Service) / <span>PDIS (Public Digital Innovation Space)<span>",
+                    "desciption": "PDIS is a goveronment origanization in Taiwan, it also has another name: Executive Yuan - Ministry of Digital Audrey Tang's Office. We use new technology to improve public participation and open government. We set up a video streaming in government meeting, so people can post their comment in any where. I am a member of  code team and video team. In this year, I also serve for Alternative Military Service. I learned a lot skills and public participation."
+                }
+            ,
+            
+                {
+                    "Year": "2015-2017",
+                    "job": "Software/Business Intelligence Engineer / <span>Shinda co. ltd</span>",
+                    "desciption": "Shinda Technology is a company that continues to expand its ability. I am responsible for web site system development and technical research here. We are pursuing technological innovation and system stability. We are mainly responsible for ASP.NET C# design and development of Webform/MVC systems. In addition to improving technical skills, learn more about teamwork and communication skills."
+                }
+            
+            ],
+        "Educations": [
             {
-                "Year": "2017-2018",
-                "job": "Software Engineer / <span>Public Digital Innovation Space, The Executive Yuan<span>",
-                "desciption": "I served in the PDIS under the Digital Minister Tang. I am responsible for software development and live broadcast."
+                "Year": "2015-2017",
+                "job": "Master of Computer Science and Information Engineering / <span>Fu Jen University</span>",
+                "desciption": "During the period of the Institute, in addition to academic research, in order to accumulate work experience I worked as a software engineer and managed time effectively.I also serve as a teaching assistant for telemedicine and telehealth services and web fundamentals . My research is about web traffic."
             }
         ,
         
             {
-                "Year": "2015-2017",
-                "job": "Software/Business Intelligence Engineer / <span>Shinda co. ltd</span>",
-                "desciption": "I learned a lot in a team that grew up, not just in technology, communication, teamwork, or even management. I developed some web projects here."
+                "Year": "2012-2015",
+                "job": "Bachelor of Computer Science and Information Engineering / <span>Ming Chuan University</span>",
+                "desciption": "During my college years, I worked hard to build basic skills. In order to improve my abilities, I developed the Android application of the school library.Also participated in the data exploration contest organized by SAS. The graduation thesis was a  web-based data mining system implementation."
             }
+        ]
+    },
+    "zh-tw":
+    {
+        "Work_experiences": [
+            
+                {
+                    "Year": "2017-2018",
+                    "job": "軟體工程師 (替代役) / <span>行⁠政⁠院公⁠共⁠數⁠位創⁠新⁠空⁠間<span>",
+                    "desciption": "行⁠政⁠院公⁠共⁠數⁠位創⁠新⁠空⁠間是台灣的政府機構，是由唐鳳政務委員所成立的辦公室。 我們研究/使用網路新興技術來改善公眾參與和開放政府。 在政府會議上導入直播技術，以便人們可以在任何地方參與及發表言論。 我是研發和直播團隊的成員。 在這裡是非常難得的經驗，服替代役這一年。 我學到了很多技能，以及更多的公共參與。"
+                }
+            ,
+            
+                {
+                    "Year": "2015-2017",
+                    "job": "軟體/商業智慧 工程師 / <span>新達科技股份有限公司</span>",
+                    "desciption": "新達科技是一個持續擴增版圖的公司，我在這邊負責網站系統開發與技術研究，追求技術創新並系統穩定，主要負責ASP.NET C# 設計、開發Webform/MVC系統。在這裡除了精進技術能力之外，更學習團隊合作及溝通的技巧。"
+                }
+            
+            ],
+        "Educations": [
+            {
+                "Year": "2015-2017",
+                "job": "資訊工程研究所 / <span>輔仁大學</span>",
+                "desciption": "在研究所期間，除了學術研究之外，為了積累實戰經驗，我兼職軟體工程師的工作並有效的管理時間，在學校也有擔任遠距醫療課程與web基本原理的教學助理。論文方面則是網站流量與內容評估的相關研究。"
+            }
+        ,
         
-        ],
-    "Educations": [
-        {
-            "Year": "2015-2017",
-            "job": "Master of Computer Science and Information Engineering / <span>Fu Jen University</span>",
-            "desciption": "During the period of the Institute, in addition to academic research, in order to accumulate work experience I worked as a part-time information engineer and managed time effectively.My research is about web traffic."
-        }
-    ,
-    
-        {
-            "Year": "2012-2015",
-            "job": "Bachelor of Computer Science and Information Engineering / <span>Ming Chuan University</span>",
-            "desciption": "During my college years, I worked hard to build basic skills. In order to improve my abilities, I developed the Android application of the school library. The graduation thesis was a  web-based data mining system implementation."
-        }
-    ]
+            {
+                "Year": "2012-2015",
+                "job": "資訊工程學系 / <span>銘傳大學</span>",
+                "desciption": "在大學期間，為了提高自己的能力學以致用，我開發了學校圖書館的Android App，也參加了SAS舉辦的資料探勘比賽。 畢業專題是實作一個資料探勘網站系統。"
+            }
+        ]
+    }
+
 }

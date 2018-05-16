@@ -6,31 +6,30 @@
 		</h3>
 		<div class="modal-spa">
 			<div class="skills">
+
+				<div class="col-md-6 bar-grids">
+					<h4>
+						<span class="glyphicon glyphicon-list-alt"></span>Web </h4>
+					{% for skill in site.data.skills[lang].Web %}
+					<h6>
+						<i class="fa fa-thumbs-up"></i> {{skill}}</h6>
 				
-				<div class="col-md-12 bar-grids bargrids-left">
-					<!-- <h4>
-							<span class="glyphicon glyphicon-cog"></span> Technical Skills </h4> -->
-					{% for skill in site.data.skills limit: 9%}
-					<h6><i class="fa fa-thumbs-up"></i> {{skill[0]}}</h6>
-					<!-- <div class="progress">
-						<div class="progress-bar progress-bar-striped active" style="width: {{skill[1]}}%">
-						</div>
-					</div> -->
 					{% endfor %}
 
 				</div>
-				<div class="col-md-6 bar-grids  w3-agile">
-					<!-- <h4>
-							<span class="glyphicon glyphicon-briefcase"></span> Professional Skills </h4> -->
-					{% for skill in site.data.skills limit: 9 offset: 9%}
-					<h6><i class="fa fa-thumbs-o-up"></i>{{skill[0]}}</h6>
-					<!-- <div class="progress">
-						<div class="progress-bar progress-bar-striped active" style="width: {{skill[1]}}%">
-						</div>
-					</div> -->
-					{% endfor %}
-
-				</div>
+		
+				<div class="col-md-6 bar-grids  ">
+						<h4>
+								<span class="glyphicon glyphicon-cog"></span> DevOps/Others </h4>
+						{% for skill in site.data.skills[lang].Others %}
+						<h6>
+							<i class="fa fa-thumbs-o-up"></i> {{skill}}</h6>
+						
+						{% endfor %}
+	
+					</div>
+			
+			
 				<div class="clearfix"> </div>
 			</div>
 		</div>

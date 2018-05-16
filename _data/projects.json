@@ -1,30 +1,66 @@
 {
-    "1": [
+    "en": [
         {
-            "image": "images/EC.png",
-            "title": "Electronic Commerce System"
+            "image": "../images/EC.png",
+            "title": "Electronic Commerce System",
+            "Description": "Develop a customized e-commerce platform for well-known bicycle manufacturers, complete front-end and back-end functions according to requirements, and act as the main developer, program design, and database structure. Its functions include product visualization, online payment, shopping records, etc. . Is a ASP.NET + SQL Server based Web system, and designed for the global version and the China version are on the AWS and Alibaba cloud."
         },
         {
-            "image": "images/ERP.png",
-            "title": "Enterprise Resource Planning System"
+            "image": "../images/ERP.png",
+            "title": "ERP / CRM",
+            "Description": "Develop customized enterprise resource planning system and customer relationship management systems for well-known bicycle manufacturers. Complete  front-end and back-end functions according to requirements. Serve as the main developer,program design, and database structure. Its functions include production management, invoicing, employee management, and Items management, membership management, bonus functions, customer management, etc. Is a ASP.NET + SQL Server based Web system, and designed for the global version and the China version are on the AWS and Alibaba cloud."
         },
         {
-            "image": "images/webapp.png",
-            "title": "Web App"
-        },
-      
-        {
-            "image": "images/android.png",
-            "title": "Android Native Application"
+            "image": "../images/DataAna.png",
+            "title": "Data Analysis System / ETL",
+            "Description": "The development of the test data analysis system of National Sun Yat-sen University complete front-end and back-end functions according to requirements and serves as the main developer, program design, and database structure. The functions include statistical functions such as various forms, PIVOT table..., and the statistical core uses R Script. It is a web system based on ASP.NET + SQL Server + R Script."
         },
         {
-            "image": "images/officialweb.png",
-            "title": "Official Website"
+            "image": "../images/officialweb.png",
+            "title": "Official Website&Maintenance",
+            "Description": "Responsive Websites, Promotion Websites, Content Management Systems...etc. The planning and development of websites such as Github pages+jekyll; Windows/Asp.Net; Linux/Node.js...etc."
         },
         {
-            "image": "images/CRM.png",
-            "title": "Customer Relationship Management System"
+            "image": "../images/android.png",
+            "title": "Android Native App",
+            "Description": "1. Library Android application (Android 4.0+) serves as system analysis and main development 2. Case job about develop gambling games Android application (Android 5.0+) 3. Enterprise internal work management Application (Android 4.4+) Team collaboration development"
+        },
+        {
+            "image": "../images/webapp.png",
+            "title": "Web App/Others",
+            "Description": "Due to the vigorous development of Internet technology, I also hope to improve our quality of life through digital tools. Therefore, I am also committed to the development of some useful tools. EX: LINE/FB Message BOT with accounting tools, The APP that can controls home appliances...etc., also developed some tools to make the workflow easier during the service EX: live video captioning tools, meeting booking helper...etc."
+        }
+    ],
+    "zh-tw": [
+        {
+            "image": "../images/EC.png",
+            "title": "電子商務平台(EC)",
+            "Description": "開發知名腳踏車廠商客製化電子商務平台，依據需求完成各項前後台功能，擔任主要開發人員、邏輯設計、資料庫架構，其功能包含商品視覺化呈現、線上金流、購物紀錄...等。是一個基於ASP.NET + SQL Server的Web系統，並設計為全球版與中國版分別部屬在AWS及阿里雲上。"
+        },
+        {
+            "image": "../images/ERP.png",
+            "title": "企業資源規劃系統(ERP)/客戶關係管理系統(CRM)",
+            "Description": "開發知名腳踏車廠商客製化營運系統、客戶關係管理系統，依據需求完成各項前後台功能，擔任主要開發人員、邏輯設計、資料庫架構，其功能包含生產管理、進銷存、員工管理、各項報表、會員管理、紅利功能、客戶權利...等。是一個基於ASP.NET + SQL Server的Web系統，並設計為全球版與中國版分別部屬在AWS及阿里雲上。"
+        },
+        {
+            "image": "../images/DataAna.png",
+            "title": "資料分析系統/ETL",
+            "Description": "開發中山大學檢測資料分析系統，依據需求完成各項前後台功能，擔任主要開發人員、邏輯設計、資料庫架構，功能包括各式表單、PIVOT TABLE...等統計功能，統計核心使用R Script。是一個基於ASP.NET + SQL Server + R Script的Web系統。"
+        },
+        {
+            "image": "../images/officialweb.png",
+            "title": "各式官網&各式網站維護",
+            "Description": "RWD響應式官網、宣傳網站、內容管理系統(CMS)...等網站前後端規劃及開發，架構使用Github pages+jekyll ; Windows/Asp.Net ; Linux/Node.js...等。"
+        },
+        {
+            "image": "../images/android.png",
+            "title": "Android Native App",
+            "Description": "1.圖書館書籍查詢APP(Android 4.0+)擔任系統分析及主要開發  2.個人接案開發博弈相關App(Android 5.0+)  3.企業內部工作管理App (Android 4.4+)團隊協作開發"
+        },
+        {
+            "image": "../images/webapp.png",
+            "title": "Web App/Others",
+            "Description": "由於網路技術蓬勃發展，我也希望能夠透過數位工具提升我們的生活品質，因此本身也致力於開發一些讓生活品質更好的小工具，EX:結合LINE/FB Message BOT的記帳卜卦機器人、控制智慧家電的APP...等，在服役期間也開發了一些讓工作流程更輕鬆的工具EX:直播及時字幕工具、行程預約幫手...等。"
         }
     ]
-    
 }

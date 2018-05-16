@@ -1,33 +1,34 @@
 <!-- about -->
 <div class="about" id="about">
+   
 	
 	<div class="col-md-6 person-info-agileits-w3layouts">
 		<h3 class="w3_head w3_head1">About Me
-			<span>I am Shun-Bo</span>
+			<span>I am {{site.data.about[lang].name}} </span>
 		</h3>
 		<p style="word-break: break-word;">
-			<span>Hi!, I am {{site.data.about.name}} </span>
+			<span>Hi!, I am {{site.data.about[lang].name}} </span>
 			<br/>
-			{{site.data.about.aboutme}}</p>
+			{{site.data.about[lang].aboutme}}</p>
 		<ul>
 			<li>
-				<span>Name</span>: {{site.data.about.name}}</li>
+				<span>Name</span>: {{site.data.about[lang].name}}</li>
 			<!-- <li>
 					<span>Age</span>: 28 Years</li> -->
 			<li>
-				<span>Experience</span>:{{site.data.about.Experience}}</li>
+				<span>Experience</span>:{{site.data.about[lang].Experience}}</li>
 			<li>
 				<span>Email</span>:
-				<a href="mailto:{{site.data.about.Email}}">{{site.data.about.Email}}</a>
+				<a href="mailto:{{site.data.about[lang].Email}}">{{site.data.about[lang].Email}}</a>
 			</li>
 			<!-- <li>
 					<span>Phone</span>: (012) 345 6789</li> -->
 			<li>
 				<span>Website</span>:
-				<a target="_bland" href="{{site.data.about.Website}}">{{site.data.about.Website}}</a>
+				<a target="_bland" href="{{site.data.about[lang].Website}}">{{site.data.about[lang].Website}}</a>
 			</li>
 			<li>
-				<span>Address</span>:{{site.data.about.Address}} </li>
+				<span>Address</span>:{{site.data.about[lang].Address}} </li>
 			<!-- <li>
 					<a href="#" class="botton-w3ls">Download CV</a>
 					<a href="#small-dialog" class="play-icon popup-with-zoom-anim botton-w3ls">Watch my video</a>

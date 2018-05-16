@@ -1,0 +1,92 @@
+<!-- project -->
+
+
+<div class="gallery_wthree" id="gallery">
+    <div class="container">
+        <h3 class="w3_head w3_head1">My Projects
+            <span>My latest work</span>
+        </h3>
+
+        <div class="container">
+            <div class="row">
+
+
+                {% for project in site.data.projects[lang] %}
+
+                <div class=" col-lg-4 col-md-6">
+                    <div class="thumbnail">
+                        <a href='#' data-toggle="modal" data-target="#project-modal" data-title="{{project.title}}" data-des="{{project.Description}}" data-img="{{project.image}}">
+                            <div class="projectImg" style='background:url("{{project.image}}") center / cover no-repeat;'>
+
+                            </div>
+                            <!-- <img src="{{project.image}}" /> -->
+
+
+                            <div class="caption">
+                                <h3>{{project.title}}</h3>
+
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                {% endfor %}
+
+            </div>
+
+        </div>
+    </div>
+
+    <a href="mailto:{{site.data.about[lang].Email}}"  style="float: right;">Know more projects...</a>
+</div>
+
+</div>
+
+
+
+<div id="project-modal" class="modal fade" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <h5 class="modal-title">New message</h5>
+            </div>
+            <div class="modal-body">
+                <div class="thumbnail modal-card">
+
+                    <img id="modal-img" />
+
+
+                    <div class="caption">
+                        <div id="modal-content"></div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<script>
+
+    $('#project-modal').on('show.bs.modal', function (event) {
+        var button = $(event.relatedTarget) // Button that triggered the modal
+        var recipient = button.data('title') // Extract info from data-* attributes
+        var description = button.data('des')
+        var img = button.data('img')
+
+        var modal = $('#project-modal')
+        modal.find('.modal-title').text(recipient)
+        modal.find('#modal-img').attr('src',img);
+        modal.find('#modal-content').text(description)
+    })
+
+
+</script>
+
+<!-- //project -->

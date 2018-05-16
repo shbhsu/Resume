@@ -6,7 +6,16 @@
 				<a href="index.html">My Info
 					<span>WHO IAM</span>
 				</a>
+				
 			</h1>
+			<div style="text-align: center;">
+				<a href="index.html" onclick="setCookie('Lng', 'zh-TW', 30);" style="color:#000;">
+					<span>中文</span>
+				</a>|
+				<a href="index.html" onclick="setCookie('Lng', 'en', 30);" style="color:#000;">
+					<span>English</span>
+				</a>
+			</div>
 		</div>
 		<div class="w3_menu">
 			<div class="mobile-nav-button">
@@ -51,33 +60,33 @@
 	</div>
 	<div class="agile_banner_info">
 		<h2>
-			<span>HI! I'm</span> Shun-Bo</h2>
+			<span>HI! I'm</span>{{site.data.about[lang].name}} </h2>
 		<div id="typed-strings" class="agileits_w3layouts_strings">
-			{% for Job_title in site.data.about.banner.Job_titles %}
+			{% for Job_title in site.data.about[lang].banner.Job_titles %}
 			<p>{{Job_title}}</p>
 			{% endfor %}
 
 		</div>
 		<span id="typed" style="white-space:pre;"></span>
 		<p class="banner-p-w3ls">
-			{{site.data.about.banner.slogan}}
+			{{site.data.about[lang].banner.slogan}}
 		</p>
 	</div>
 	<div class="w3_agileits_social_media">
 		<ul>
 
 			<li>
-				<a target="_bland" href="{{site.data.about.banner.LinkedIn}}" class="wthree_LinkedIn">
+				<a target="_bland" href="{{site.data.about[lang].banner.LinkedIn}}" class="wthree_LinkedIn">
 					<i class="fa fa-linkedin" aria-hidden="true"></i>
 				</a>
 			</li>
 			<li>
-				<a target="_bland" href="{{site.data.about.banner.GitHub}}" class="wthree_github">
+				<a target="_bland" href="{{site.data.about[lang].banner.GitHub}}" class="wthree_github">
 					<i class="fa fa-github" aria-hidden="true"></i>
 				</a>
 			</li>
 			<li>
-				<a target="_bland" href="{{site.data.about.banner.FaceBook}}" class="wthree_facebook">
+				<a target="_bland" href="{{site.data.about[lang].banner.FaceBook}}" class="wthree_facebook">
 					<i class="fa fa-facebook" aria-hidden="true"></i>
 				</a>
 			</li>
@@ -90,7 +99,7 @@
 		</ul>
 	</div>
 	<div class="banner-image-w3layouts">
-		<img src="images/PC.png" alt=" " class="img-responsive" />
+		<img src="../images/PC.png" alt=" " class="img-responsive" />
 	</div>
 </div>
 <!-- //banner -->
