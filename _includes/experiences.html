@@ -2,18 +2,18 @@
 
 <div class="work" id="work">
     <div class="container">
-        <h3 class="w3_head w3_head1">experience & Education
+        <h3 class="_head _head1">experience & Education
             <span>More about my past</span>
         </h3>
         <h5>Work experience</h5>
         {% for Work_experience in site.data.experiences[lang].Work_experiences %}
 
         <div class="work-info-agileits">
-            <div class="col-md-4 work-left-agileits-w3layouts">
+            <div class="col-md-4 work-left-agileits-layouts">
                 <h6>
                     <i class="fa fa-calendar-check-o" aria-hidden="true"></i> {{Work_experience.Year}}</h6>
             </div>
-            <div class="col-md-8 work-right-w3-agileits">
+            <div class="col-md-8 work-right-agileits">
                 <h3>{{Work_experience.job}}
                 </h3>
                 <p>{{Work_experience.desciption}}</p>
@@ -28,11 +28,11 @@
         {% for Education in site.data.experiences[lang].Educations %}
 
         <div class="work-info-agileits">
-            <div class="col-md-4 work-left-agileits-w3layouts">
+            <div class="col-md-4 work-left-agileits-layouts">
                 <h6>
                     <i class="fa fa-calendar-check-o" aria-hidden="true"></i> {{Education.Year}}</h6>
             </div>
-            <div class="col-md-8 work-right-w3-agileits">
+            <div class="col-md-8 work-right-agileits">
                 <h3>{{Education.job}}
                 </h3>
                 <p>{{Education.desciption}}</p>

@@ -1,7 +1,7 @@
 <!-- banner -->
 <div class="banner" id="home">
 	<div class="header">
-		<div class="w3_agile_logo">
+		<div class="_agile_logo">
 			<h1>
 				<a href="index.html">My Info
 					<span>WHO IAM</span>
@@ -17,7 +17,7 @@
 				</a>
 			</div>
 		</div>
-		<div class="w3_menu">
+		<div class="_menu">
 			<div class="mobile-nav-button">
 				<div class="mobile-nav-button__line"></div>
 				<div class="mobile-nav-button__line"></div>
@@ -61,18 +61,20 @@
 	<div class="agile_banner_info">
 		<h2>
 			<span>HI! I'm</span>{{site.data.about[lang].name}} </h2>
-		<div id="typed-strings" class="agileits_w3layouts_strings">
+			<div>
+		<div id="typed-strings" class="agileits_layouts_strings">
 			{% for Job_title in site.data.about[lang].banner.Job_titles %}
 			<p>{{Job_title}}</p>
 			{% endfor %}
 
 		</div>
 		<span id="typed" style="white-space:pre;"></span>
-		<p class="banner-p-w3ls">
+	</div>
+		<p class="banner-p-ls">
 			{{site.data.about[lang].banner.slogan}}
 		</p>
 	</div>
-	<div class="w3_agileits_social_media">
+	<div class="_agileits_social_media">
 		<ul>
 
 			<li>
@@ -98,7 +100,7 @@
 
 		</ul>
 	</div>
-	<div class="banner-image-w3layouts">
+	<div class="banner-image-layouts">
 		<img src="../images/PC.png" alt=" " class="img-responsive" />
 	</div>
 </div>

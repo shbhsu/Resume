@@ -8,6 +8,7 @@
             "Jquery",
             "Jekyll",
             "Vue",
+            "Bootstrap",
             "Node.js",
             "webpack",
             "ASP.NET",
@@ -21,13 +22,14 @@
             "R Script",
             "Language Understanding (LUIS)",
             "Google Analytics",
+            "Drupal",
             "Serverless",
             "Git/TFS",
             "Data Mining",
             "Android(Java and Web App)",
             "Progressive web app",
             "Jenkins",
-            "Live Broadcast"
+            "OAuth"
         ]
     },
     "zh-tw": {

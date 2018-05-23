@@ -23,12 +23,12 @@
         {
             "image": "../images/android.png",
             "title": "Android Native App",
-            "Description": "1. Library Android application (Android 4.0+) serves as system analysis and main development 2. Case job about develop gambling games Android application (Android 5.0+) 3. Enterprise internal work management Application (Android 4.4+) Team collaboration development"
+            "Description": "1. Library Android application (Android 4.0+) serves as system analysis and main development <br/><br/>2. Case job about develop gambling games Android application (Android 5.0+) <br/><br/>3. Enterprise internal work management Application (Android 4.4+) Team collaboration development"
         },
         {
             "image": "../images/webapp.png",
             "title": "Web App/Others",
-            "Description": "Due to the vigorous development of Internet technology, I also hope to improve our quality of life through digital tools. Therefore, I am also committed to the development of some useful tools. EX: LINE/FB Message BOT with accounting tools, The APP that can controls home appliances...etc., also developed some tools to make the workflow easier during the service EX: live video captioning tools, meeting booking helper...etc."
+            "Description": "Due to the vigorous development of Internet technology, I also hope to improve our quality of life through digital tools. Therefore, I am also committed to the development of some useful tools. EX: LINE/FB Message BOT with accounting tools, The APP that can controls home appliances,PWA...etc.<br/><br/> Also developed some tools to make the workflow easier during the service EX:<br/>1.<a target='_bland' href='https://github.com/PDIS/RealTimeSubtitle'>Live Video Captioning tools</a>,A open-source plug-in to display subtitle on OBS Studio by node.js,websocket. <br/><br/>2.<a target='_bland' href='https://github.com/PDIS/socialinnovationlab-calendar'>Meeting Booking Helper</a> sync Microsoft Exchange Data and visualize on web."
         }
     ],
     "zh-tw": [
@@ -55,12 +55,12 @@
         {
             "image": "../images/android.png",
             "title": "Android Native App",
-            "Description": "1.圖書館書籍查詢APP(Android 4.0+)擔任系統分析及主要開發  2.個人接案開發博弈相關App(Android 5.0+)  3.企業內部工作管理App (Android 4.4+)團隊協作開發"
+            "Description": "1.圖書館書籍查詢APP(Android 4.0+)擔任系統分析及主要開發<br/><br/>2.個人接案開發博弈相關App(Android 5.0+)<br/><br/>3.企業內部工作管理App (Android 4.4+)團隊協作開發"
         },
         {
             "image": "../images/webapp.png",
             "title": "Web App/Others",
-            "Description": "由於網路技術蓬勃發展，我也希望能夠透過數位工具提升我們的生活品質，因此本身也致力於開發一些讓生活品質更好的小工具，EX:結合LINE/FB Message BOT的記帳卜卦機器人、控制智慧家電的APP...等，在服役期間也開發了一些讓工作流程更輕鬆的工具EX:直播及時字幕工具、行程預約幫手...等。"
+            "Description": "由於網路技術蓬勃發展，我也希望能夠透過數位工具提升我們的生活品質，因此本身也致力於開發一些讓生活品質更好的小工具，EX:結合LINE/FB Message BOT的記帳卜卦機器人、控制智慧家電的APP、PWA...等。<br/><br/>在服役期間也開發了一些讓工作流程更輕鬆的工具EX:<br/>1.<a target='_bland' href='https://github.com/PDIS/RealTimeSubtitle'>直播即時字幕工具</a>，這是運用node.js websocket架構的即時字幕器，搭配OBS直播與支援Browser Source的直播軟體，在直播時，能夠顯示即時註解與文字，不再只能在主控台控制，能夠讓其他人協助控制直播。<br/><br/>2.<a target='_bland' href='https://github.com/PDIS/socialinnovationlab-calendar'>行程預約幫手</a>，這是透過同步微軟Exchange資料並透過前端網頁呈現的便民小工具。"
         }
     ]
 }

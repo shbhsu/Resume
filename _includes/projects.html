@@ -3,7 +3,7 @@
 
 <div class="gallery_wthree" id="gallery">
     <div class="container">
-        <h3 class="w3_head w3_head1">My Projects
+        <h3 class="_head _head1">My Projects
             <span>My latest work</span>
         </h3>
 
@@ -83,7 +83,7 @@
         var modal = $('#project-modal')
         modal.find('.modal-title').text(recipient)
         modal.find('#modal-img').attr('src',img);
-        modal.find('#modal-content').text(description)
+        modal.find('#modal-content').html(description)
     })
 
 
