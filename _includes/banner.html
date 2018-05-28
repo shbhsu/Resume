@@ -6,7 +6,7 @@
 				<a href="index.html">Resume
 					<span>WHO IAM</span>
 				</a>
-				
+
 			</h1>
 			<div style="text-align: center;">
 				<a href="/zh/" onclick="setCookie('Lng', 'zh-TW', 30);" style="color:#000;">
@@ -38,8 +38,8 @@
 						<a href="#work" class="scroll">Experience</a>
 					</li>
 					<li>
-							<a href="#services" class="scroll">Services</a>
-						</li>
+						<a href="#services" class="scroll">Services</a>
+					</li>
 					<li>
 						<a href="#gallery" class="scroll">Projects</a>
 					</li>
@@ -48,12 +48,7 @@
 					</li>
 				</ul>
 				<div class="clearfix"></div>
-				<!-- <div class="search-agileits">
-					<form action="#" method="post">
-						<input type="search" name="Search" placeholder=" " required="">
-						<input type="submit" value="Search">
-					</form>
-				</div> -->
+
 			</nav>
 		</div>
 		<div class="clearfix"> </div>
@@ -61,15 +56,18 @@
 	<div class="agile_banner_info">
 		<h2>
 			<span>HI! I'm</span>{{site.data.about[lang].name}} </h2>
-			<div>
-		<div id="typed-strings" class="agileits_layouts_strings">
-			{% for Job_title in site.data.about[lang].banner.Job_titles %}
-			<p>{{Job_title}}</p>
-			{% endfor %}
+		<p class="banner-p-ls">
+			I'm looking for opportunities in
+		</p>
+		<div>
+			<div id="typed-strings" class="agileits_layouts_strings">
+				{% for Job_title in site.data.about[lang].banner.Job_titles %}
+				<p>{{Job_title}}</p>
+				{% endfor %}
 
+			</div>
+			<span id="typed" style="white-space:pre;"></span>
 		</div>
-		<span id="typed" style="white-space:pre;"></span>
-	</div>
 		<p class="banner-p-ls">
 			{{site.data.about[lang].banner.slogan}}
 		</p>

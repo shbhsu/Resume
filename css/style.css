@@ -360,6 +360,7 @@ li.dropdown.act a._icons_act {
     letter-spacing: 2px;
     color: #ecb731;
 	text-shadow: 1px 1px 2px #000;
+	padding-bottom: 15px;
 }
 .agile_banner_info h2 span{
     color: #171717;
@@ -1705,7 +1706,7 @@ a.callbacks_nav.callbacks1_nav.prev {
 		right: 3%;
 	}
 	.agile_banner_info {
-		margin: 6.3em 0 0em 12em;
+		margin: 3.3em 0 0em 12em;
 	}
 }
 @media(max-width:1280px){
@@ -2352,7 +2353,7 @@ a.callbacks_nav.callbacks1_nav.prev {
 		right: 0%;
 	}
 	.agile_banner_info {
-		margin: 3em 0 0em 2.3em;
+		margin: 0em 0 0em 2.3em;
 	}
 	.banner {
 		min-height: 32em;
@@ -2409,7 +2410,7 @@ a.callbacks_nav.callbacks1_nav.prev {
 		right: 0%;
 	}
 	.agile_banner_info {
-		margin: 25vh 0 0em 1.5em;
+		margin: 15vh 0 0em 1.5em;
 	}
 	.header {
 		padding: 1.2em 1.5em 0;
