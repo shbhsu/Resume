@@ -2,9 +2,10 @@
     "en":{
         "banner": {
             "Job_titles": [
-                "DevOps <i>Engineer.</i>",
+                "Software <i>Engineer.</i>",
                 "Data <i>Engineer.</i>",
-                "Web <i>Engineer.</i>"
+                "Web <i>Engineer.</i>",
+                "DevOps <i>Engineer.</i>"
             ],
             "slogan": "Actions speak louder than words. I enjoy learning anything what I don't know!<br/>My research interest includes Data Science, Web Computing, Full-Stack, Mobile Application and IoT",
             "FaceBook": "https://www.facebook.com/soonbohsu",
@@ -24,9 +25,10 @@
     "zh-tw":{
             "banner": {
                 "Job_titles": [
-                    "DevOps <i>Engineer.</i>",
+                    "Software <i>Engineer.</i>",
                     "Data <i>Engineer.</i>",
-                    "Web <i>Engineer.</i>"
+                    "Web <i>Engineer.</i>",
+                    "DevOps <i>Engineer.</i>"
                 ],
                 "slogan": "我是一個喜歡實作精進技術的人，我樂於學習、研究任何新事物!<br/>我的研究興趣包含資料科學、Web運算、前後端技術、行動應用程式、物聯網。",
                 "FaceBook": "https://www.facebook.com/soonbohsu",
