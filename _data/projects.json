@@ -6,6 +6,11 @@
             "Description": "<a target='_bland'  href='http://www.airitilibrary.com/Publication/alDetailedMesh?docid=P20161124001-201611-201611240026-201611240026-673-678-121'>Taiwan Academic Network Conference (TANET) ； <br/>2016 (2016 / 11 / 01) ， P673 - 678</a><br/><br/>Due to the popularity of the Internet, the website has become a major platform of content delivering and self-learning. Content quality is a key factor affecting the overall value of the site. Webmasters hope content of the site can answer the expectations of users. Aware of the dynamic content status is a critical responsibility for webmasters. As to self-motivated learners, the huge amount of contents usually confusing them to locate the desired page. This research analyzed web traffic of the Social Learning Space through web site with Google Analytics. By analyzing traffic data in page views; together with the time-stamped average browsing time; we proposed a Quality Rank index for web page content evaluation. Consider both the Quality Rank and the length of content, the recommendation with most qualified pages is ready to deliver. Beside the web site itself, We implemented the recommendation on FaceBook fan page with Messenger Bot. On the other hand, this research also classifies web content with the Quality Rank index. With the classification, webmaster can easily distinguish pages with high efficiency; pages need to be updated, or pages can be removed."
         },
         {
+            "image": "../images/webapp.png",
+            "title": "Web App/Plug-in tools",
+            "Description": "Due to the vigorous development of Internet technology, I also hope to improve our quality of life through digital tools. Therefore, I am also committed to the development of some useful tools. EX: LINE/FB Message BOT with accounting tools, The APP that can controls home appliances,PWA...etc.<br/><br/> Also developed some tools to make the workflow easier during the service EX:<br/>1.<a target='_bland' href='https://github.com/PDIS/RealTimeSubtitle'>Live Video Captioning tools</a>,A open-source plug-in to display subtitle on OBS Studio by node.js,websocket. <br/><br/>2.<a target='_bland' href='https://github.com/PDIS/socialinnovationlab-calendar'>Meeting Booking Helper</a> sync Microsoft Exchange Data and visualize on web."
+        },
+        {
             "image": "../images/EC.png",
             "title": "Electronic Commerce System",
             "Description": "Develop a customized e-commerce platform for well-known bicycle manufacturers, complete front-end and back-end functions according to requirements, and act as the main developer, program design, and database structure. Its functions include product visualization, online payment, shopping records, etc. . Is a ASP.NET + SQL Server based Web system, and designed for the global version and the China version are on the AWS and Alibaba cloud."
@@ -25,11 +30,7 @@
             "title": "Food Safety Data Analysis System /ETL",
             "Description": "Collaboratively develop a food safety data analysis system, complete front-end and back-end functions according to requirements  and serves as the web developer, program design, database structure, concatenated with Tableau, and ETL processing. It is a web system based on ASP.NET + SQL Server + Tableau."
         },
-        {
-            "image": "../images/webapp.png",
-            "title": "Web App/Plug-in tools",
-            "Description": "Due to the vigorous development of Internet technology, I also hope to improve our quality of life through digital tools. Therefore, I am also committed to the development of some useful tools. EX: LINE/FB Message BOT with accounting tools, The APP that can controls home appliances,PWA...etc.<br/><br/> Also developed some tools to make the workflow easier during the service EX:<br/>1.<a target='_bland' href='https://github.com/PDIS/RealTimeSubtitle'>Live Video Captioning tools</a>,A open-source plug-in to display subtitle on OBS Studio by node.js,websocket. <br/><br/>2.<a target='_bland' href='https://github.com/PDIS/socialinnovationlab-calendar'>Meeting Booking Helper</a> sync Microsoft Exchange Data and visualize on web."
-        },
+        
         {
             "image": "../images/embedded.png",
             "title": "Joystick/Embedded C++",
@@ -53,6 +54,11 @@
             "Description": "<a target='_bland'  href='http://www.airitilibrary.com/Publication/alDetailedMesh?docid=P20161124001-201611-201611240026-201611240026-673-678-121'>TANET2016 臺灣網際網路研討會 ； <br/>2016 (2016 / 11 / 01) ， P673 - 678</a><br/><br/>由於網路的普及，網站已成為傳遞內容或自主學習最主要的平台。網站管理者期望網站的內容能夠符合使用者的需求，內容品質是影響網站整體價值的關鍵因素。了解網站內容動態狀況成了管理者的重要課題。對自主學習而言，眾多的內容經常讓學習者困惑，要找到符合期望的內容相當不容易。本研究運用Google Analytics 分析宅學習網路社群學習平台的流量。藉由分析流量數據中的瀏覽量；及根據時戳推演的平均瀏覽時間；設計了一個網頁內容評估指標。評估指標搭配另一個內容長度參數，能夠針對訪客想要查看的內容網頁提出最佳品質推薦。除了在內容網站得到推薦，我們也在FaceBook 粉絲頁以Messenger Bot 實作推薦機制。另一方面，本研究也將網頁依據其內容評估指標分類，網站經營者能夠分辨出高效益內容網頁、需要內容更新、甚或可以直接刪除的內容網頁。"
         },
         {
+            "image": "../images/webapp.png",
+            "title": "Web App/Plug-in tools",
+            "Description": "由於網路技術蓬勃發展，我也希望能夠透過數位工具提升我們的生活品質，因此本身也致力於開發一些讓生活品質更好的小工具，EX:結合LINE/FB Message BOT的記帳卜卦機器人、控制智慧家電的APP、PWA...等。<br/><br/>在服役期間也開發了一些讓工作流程更輕鬆的工具EX:<br/>1.<a target='_bland' href='https://github.com/PDIS/RealTimeSubtitle'>直播即時字幕工具</a>，這是運用node.js websocket架構的即時字幕器，搭配OBS直播與支援Browser Source的直播軟體，在直播時，能夠顯示即時註解與文字，不再只能在主控台控制，能夠讓其他人協助控制直播。<br/><br/>2.<a target='_bland' href='https://github.com/PDIS/socialinnovationlab-calendar'>行程預約幫手</a>，這是透過同步微軟Exchange資料並透過前端網頁呈現的便民小工具。"
+        },
+        {
             "image": "../images/EC.png",
             "title": "電子商務平台(EC)",
             "Description": "開發知名腳踏車廠商客製化電子商務平台，依據需求完成各項前後台功能，擔任主要開發人員、邏輯設計、資料庫架構，其功能包含商品視覺化呈現、線上金流、購物紀錄...等。是一個基於ASP.NET + SQL Server的Web系統，並設計為全球版與中國版分別部屬在AWS及阿里雲上。"
@@ -72,11 +78,7 @@
             "title": "食安資料分析系統/ETL",
             "Description": "協作開發食品安全資料分析系統，依據需求完成各項前後台功能，擔任主要前、後端開發人員、邏輯設計、資料庫架構，功能包括介接Tableau、各項資料ETL處理...等，是一個基於ASP.NET + SQL Server + Tableau的Web系統。"
         },
-        {
-            "image": "../images/webapp.png",
-            "title": "Web App/Plug-in tools",
-            "Description": "由於網路技術蓬勃發展，我也希望能夠透過數位工具提升我們的生活品質，因此本身也致力於開發一些讓生活品質更好的小工具，EX:結合LINE/FB Message BOT的記帳卜卦機器人、控制智慧家電的APP、PWA...等。<br/><br/>在服役期間也開發了一些讓工作流程更輕鬆的工具EX:<br/>1.<a target='_bland' href='https://github.com/PDIS/RealTimeSubtitle'>直播即時字幕工具</a>，這是運用node.js websocket架構的即時字幕器，搭配OBS直播與支援Browser Source的直播軟體，在直播時，能夠顯示即時註解與文字，不再只能在主控台控制，能夠讓其他人協助控制直播。<br/><br/>2.<a target='_bland' href='https://github.com/PDIS/socialinnovationlab-calendar'>行程預約幫手</a>，這是透過同步微軟Exchange資料並透過前端網頁呈現的便民小工具。"
-        },
+        
         {
             "image": "../images/embedded.png",
             "title": "Joystick/Embedded C++",
