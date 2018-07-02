@@ -1,25 +1,10 @@
 {
     "en": {
-        "Web": [
-            "HTML",
-            "CSS",
-            "Javascript",
-            "Responsive Web Design",
-            "Jquery",
-            "Jekyll",
-            "Vue",
-            "Bootstrap",
-            "Node.js",
-            "webpack",
-            "ASP.NET",
-            "C#",
-            "SQL Server",
-            "MySQL",
-            "Mongodb"
-        ],
         
-        "Others": [
+        "General": [
+            
             "R Script",
+            "C++",
             "Weka",
             "Language Understanding (LUIS)",
             "Data Warehouse",
@@ -30,11 +15,44 @@
             "Data Mining",
             "Android(Java and Web App)",
             "Progressive web app",
-            "Jenkins",
-            "OAuth"
+            "Jenkins"
+        ],
+        "Web": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "Responsive Web Design",
+            "Jquery",
+            "Jekyll",
+            "Vue",
+            "Node.js",
+            "webpack",
+            "ASP.NET",
+            "C#",
+            "SQL Server",
+            "MySQL",
+            "Mongodb"
         ]
     },
     "zh-tw": {
+        
+        
+        "General": [
+            
+            "R Script",
+            "C++",
+            "Weka",
+            "Language Understanding (LUIS)",
+            "Data Warehouse",
+            "Google Analytics",
+            "Drupal",
+            "Serverless",
+            "Git/TFS",
+            "Data Mining",
+            "Android(Java and Web App)",
+            "Progressive web app",
+            "Jenkins"
+        ],
         "Web": [
             "HTML",
             "CSS",
@@ -50,22 +68,6 @@
             "SQL Server",
             "MySQL",
             "Mongodb"
-        ],
-        
-        "Others": [
-            "R Script",
-            "Weka",
-            "Language Understanding (LUIS)",
-            "Data Warehouse",
-            "Google Analytics",
-            "Drupal",
-            "Serverless",
-            "Git/TFS",
-            "Data Mining",
-            "Android(Java and Web App)",
-            "Progressive web app",
-            "Jenkins",
-            "OAuth"
         ]
     }
 }

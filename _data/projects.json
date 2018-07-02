@@ -26,6 +26,16 @@
             "Description": "Collaboratively develop a food safety data analysis system, complete front-end and back-end functions according to requirements  and serves as the web developer, program design, database structure, concatenated with Tableau, and ETL processing. It is a web system based on ASP.NET + SQL Server + Tableau."
         },
         {
+            "image": "../images/webapp.png",
+            "title": "Web App/Plug-in tools",
+            "Description": "Due to the vigorous development of Internet technology, I also hope to improve our quality of life through digital tools. Therefore, I am also committed to the development of some useful tools. EX: LINE/FB Message BOT with accounting tools, The APP that can controls home appliances,PWA...etc.<br/><br/> Also developed some tools to make the workflow easier during the service EX:<br/>1.<a target='_bland' href='https://github.com/PDIS/RealTimeSubtitle'>Live Video Captioning tools</a>,A open-source plug-in to display subtitle on OBS Studio by node.js,websocket. <br/><br/>2.<a target='_bland' href='https://github.com/PDIS/socialinnovationlab-calendar'>Meeting Booking Helper</a> sync Microsoft Exchange Data and visualize on web."
+        },
+        {
+            "image": "../images/embedded.png",
+            "title": "Joystick/Embedded C++",
+            "Description": "1.Arduino board <a target='_bland' href='https://www.youtube.com/watch?v=joR3NKXBjD8' >Joystick</a> ; <a target='_bland' href='https://www.youtube.com/watch?v=zYiel-qZ13Y' >Other DEMO</a> <br/><br/>2.<a target='_bland' href='https://labs.mediatek.com/en/platform/linkit-one'>MediaTek LinkIt™ ONE</a> Light notification box,Light Sensor + WiFi API Light notification,Can be used to sense the opening of important cabinets."
+        },
+        {
             "image": "../images/officialweb.png",
             "title": "Official Website&Maintenance",
             "Description": "Responsive Websites, Promotion Websites, Content Management Systems...etc. The planning and development of websites such as Github pages+jekyll; Windows/Asp.Net; Linux/Node.js...etc."
@@ -34,11 +44,6 @@
             "image": "../images/android.png",
             "title": "Android Native App",
             "Description": "1. Library Android application (Android 4.0+) serves as system analysis and main development <br/><br/>2. Case job about develop gambling games Android application (Android 5.0+) <br/><br/>3. Enterprise internal work management Application (Android 4.4+) Team collaboration development"
-        },
-        {
-            "image": "../images/webapp.png",
-            "title": "Web App/Others",
-            "Description": "Due to the vigorous development of Internet technology, I also hope to improve our quality of life through digital tools. Therefore, I am also committed to the development of some useful tools. EX: LINE/FB Message BOT with accounting tools, The APP that can controls home appliances,PWA...etc.<br/><br/> Also developed some tools to make the workflow easier during the service EX:<br/>1.<a target='_bland' href='https://github.com/PDIS/RealTimeSubtitle'>Live Video Captioning tools</a>,A open-source plug-in to display subtitle on OBS Studio by node.js,websocket. <br/><br/>2.<a target='_bland' href='https://github.com/PDIS/socialinnovationlab-calendar'>Meeting Booking Helper</a> sync Microsoft Exchange Data and visualize on web."
         }
     ],
     "zh-tw": [
@@ -68,6 +73,16 @@
             "Description": "協作開發食品安全資料分析系統，依據需求完成各項前後台功能，擔任主要前、後端開發人員、邏輯設計、資料庫架構，功能包括介接Tableau、各項資料ETL處理...等，是一個基於ASP.NET + SQL Server + Tableau的Web系統。"
         },
         {
+            "image": "../images/webapp.png",
+            "title": "Web App/Plug-in tools",
+            "Description": "由於網路技術蓬勃發展，我也希望能夠透過數位工具提升我們的生活品質，因此本身也致力於開發一些讓生活品質更好的小工具，EX:結合LINE/FB Message BOT的記帳卜卦機器人、控制智慧家電的APP、PWA...等。<br/><br/>在服役期間也開發了一些讓工作流程更輕鬆的工具EX:<br/>1.<a target='_bland' href='https://github.com/PDIS/RealTimeSubtitle'>直播即時字幕工具</a>，這是運用node.js websocket架構的即時字幕器，搭配OBS直播與支援Browser Source的直播軟體，在直播時，能夠顯示即時註解與文字，不再只能在主控台控制，能夠讓其他人協助控制直播。<br/><br/>2.<a target='_bland' href='https://github.com/PDIS/socialinnovationlab-calendar'>行程預約幫手</a>，這是透過同步微軟Exchange資料並透過前端網頁呈現的便民小工具。"
+        },
+        {
+            "image": "../images/embedded.png",
+            "title": "Joystick/Embedded C++",
+            "Description": "1.Arduino board <a target='_bland' href='https://www.youtube.com/watch?v=joR3NKXBjD8' >自製遊戲搖桿</a> ; <a target='_bland' href='https://www.youtube.com/watch?v=zYiel-qZ13Y' >其他DEMO</a> <br/><br/>2.<a target='_bland' href='https://labs.mediatek.com/en/platform/linkit-one'>MediaTek LinkIt™ ONE</a> 光感應控制裝置，Light Sensor + WiFi API 亮度通知，可用在重要櫃箱的開啟感應。"
+        },
+        {
             "image": "../images/officialweb.png",
             "title": "各式官網&各式網站維護",
             "Description": "RWD響應式官網、宣傳網站、內容管理系統(CMS)...等網站前後端規劃及開發，架構使用Github pages+jekyll ; Windows/Asp.Net ; Linux/Node.js...等。"
@@ -76,11 +91,6 @@
             "image": "../images/android.png",
             "title": "Android Native App",
             "Description": "1.圖書館書籍查詢APP(Android 4.0+)擔任系統分析及主要開發<br/><br/>2.個人接案開發博弈相關App(Android 5.0+)<br/><br/>3.企業內部工作管理App (Android 4.4+)團隊協作開發"
-        },
-        {
-            "image": "../images/webapp.png",
-            "title": "Web App/Others",
-            "Description": "由於網路技術蓬勃發展，我也希望能夠透過數位工具提升我們的生活品質，因此本身也致力於開發一些讓生活品質更好的小工具，EX:結合LINE/FB Message BOT的記帳卜卦機器人、控制智慧家電的APP、PWA...等。<br/><br/>在服役期間也開發了一些讓工作流程更輕鬆的工具EX:<br/>1.<a target='_bland' href='https://github.com/PDIS/RealTimeSubtitle'>直播即時字幕工具</a>，這是運用node.js websocket架構的即時字幕器，搭配OBS直播與支援Browser Source的直播軟體，在直播時，能夠顯示即時註解與文字，不再只能在主控台控制，能夠讓其他人協助控制直播。<br/><br/>2.<a target='_bland' href='https://github.com/PDIS/socialinnovationlab-calendar'>行程預約幫手</a>，這是透過同步微軟Exchange資料並透過前端網頁呈現的便民小工具。"
         }
     ]
 }

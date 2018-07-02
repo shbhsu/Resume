@@ -6,11 +6,20 @@
 		</h3>
 		<div class="modal-spa">
 			<div class="skills">
+				<div class="col-md-6 bar-grids  ">
+					<h4>
+							<span class="glyphicon  glyphicon-list-alt"></span> Web </h4>
+					{% for skill in site.data.skills[lang].Web %}
+					<h6>
+						<i class="fa fa-thumbs-o-up"></i> {{skill}}</h6>
+					
+					{% endfor %}
 
+				</div>
 				<div class="col-md-6 bar-grids">
 					<h4>
-						<span class="glyphicon glyphicon-list-alt"></span>Web </h4>
-					{% for skill in site.data.skills[lang].Web %}
+						<span class="glyphicon glyphicon-cog"></span>General/Others </h4>
+					{% for skill in site.data.skills[lang].General %}
 					<h6>
 						<i class="fa fa-thumbs-up"></i> {{skill}}</h6>
 				
@@ -18,16 +27,7 @@
 
 				</div>
 		
-				<div class="col-md-6 bar-grids  ">
-						<h4>
-								<span class="glyphicon glyphicon-cog"></span> DevOps/Others </h4>
-						{% for skill in site.data.skills[lang].Others %}
-						<h6>
-							<i class="fa fa-thumbs-o-up"></i> {{skill}}</h6>
-						
-						{% endfor %}
-	
-					</div>
+			
 			
 			
 				<div class="clearfix"> </div>
