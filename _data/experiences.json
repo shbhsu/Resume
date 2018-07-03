@@ -39,14 +39,14 @@
                 {
                     "Year": "2017-2018",
                     "job": "軟體工程師 (替代役) / <span>行⁠政⁠院公⁠共⁠數⁠位創⁠新⁠空⁠間<span>",
-                    "desciption": "行⁠政⁠院公⁠共⁠數⁠位創⁠新⁠空⁠間是台灣的政府機構，是由唐鳳政務委員所成立的辦公室。 我們研究/使用網路新興技術來改善公眾參與和開放政府。 在政府會議上導入直播技術，以便人們可以在任何地方參與及發表言論。 我是<a target='_bland'  href='https://github.com/PDIS'><i class='fa fa-github' ></i>研發</a>和<a target='_bland'  href='https://live.pdis.tw'><i class='fa fa-youtube' ></i>直播團隊</a>的成員。 在這裡是非常難得的經驗，服替代役這一年。 我學到了很多技能，以及更多的公共參與。"
+                    "desciption": "行⁠政⁠院公⁠共⁠數⁠位創⁠新⁠空⁠間是台灣的政府機構，是由唐鳳政務委員所成立的辦公室。 我們研究/使用網路新興技術來改善公眾參與和開放政府。 在政府會議上導入直播技術，以便人們可以在任何地方參與及發表言論。 我是<a target='_bland'  href='https://github.com/PDIS'><i class='fa fa-github' ></i>研發</a>和<a target='_bland'  href='https://live.pdis.tw'><i class='fa fa-youtube' ></i>直播團隊</a>的成員。 在這裡是非常難得的經驗，服替代役這一年，我除了學到了很多技能及更多的公共參與，也透過資訊技術設計一些<a style='cursor: pointer;' onclick=\"$('#modal-2').click()\">提升團隊工作效率的工具</a>。"
                 }
             ,
             
                 {
                     "Year": "2015-2017",
                     "job": "軟體/商業智慧工程師 / <span>新達科技股份有限公司</span>",
-                    "desciption": "新達科技是一個持續擴增版圖的公司，我在這邊負責網站系統開發與技術研究，追求技術創新並系統穩定，主要負責ASP.NET C# 設計、開發Webform/MVC系統。在這裡除了精進技術能力之外，更學習團隊合作及溝通的技巧。"
+                    "desciption": "新達科技是個系統研發的公司，客戶分布也相當廣泛。我在這邊負責網站系統開發與技術研究，追求技術創新並系統穩定，主要負責ASP.NET C# 設計、開發Webform/MVC系統，其包含<a style='cursor: pointer;' onclick=\"$('#modal-4').click()\">企業資源規劃系統</a>、<a style='cursor: pointer;' onclick=\"$('#modal-3').click()\">電子商務平台</a>、<a style='cursor: pointer;' onclick=\"$('#modal-5').click()\">資料分析系統</a>......等。在這裡除了精進技術能力之外，更學習團隊合作及溝通的技巧。 <br/><a href='#gallery'>更多專案...</a>"
                 }
             
             ],
