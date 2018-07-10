@@ -6,14 +6,14 @@
                 {
                     "Year": "2017-2018",
                     "job": "Software Engineer in (Alternative Military Service) / <span>PDIS (Public Digital Innovation Space)<span>",
-                    "desciption": "PDIS is a goveronment origanization in Taiwan, it also has another name: Executive Yuan - Ministry of Digital Audrey Tang's Office. We use new technology to improve public participation and open government. We set up a video streaming in government meeting, so people can post their comment in any where. I am a member of <a target='_bland'  href='https://github.com/PDIS'><i class='fa fa-github' ></i> code team</a> and <a target='_bland'  href='https://live.pdis.tw'><i class='fa fa-youtube' ></i>video team</a>  . In this year, I also serve for Alternative Military Service. I learned a lot skills and public participation."
+                    "desciption": "PDIS is a goveronment origanization in Taiwan, it also has another name: Executive Yuan - Ministry of Digital Audrey Tang's Office. We use new technology to improve public participation and open government. We set up a video streaming in government meeting, so people can post their comment in any where. I am a member of <a target='_bland'  href='https://github.com/PDIS'><i class='fa fa-github' ></i> code team</a> and <a target='_bland'  href='https://live.pdis.tw'><i class='fa fa-youtube' ></i>video team</a>  . In this year, I also develop <a style='cursor: pointer;' onclick=\"$('#modal-2').click()\"> some tools</a> to improve team work efficiency. I learned a lot skills and public participation."
                 }
             ,
             
                 {
                     "Year": "2015-2017",
                     "job": "Software/Business Intelligence Engineer / <span>Shinda co. ltd</span>",
-                    "desciption": "Shinda Technology is a company that continues to expand its ability. I am responsible for web site system development and technical research here. We are pursuing technological innovation and system stability. We are mainly responsible for ASP.NET C# design and development of Webform/MVC systems. In addition to improving technical skills, learn more about teamwork and communication skills."
+                    "desciption": "Shinda Technology is a system research and development company with a wide range of customers. I am responsible for web site system development and technical research here. We are pursuing technological innovation and system stability. We are mainly responsible for ASP.NET C# design and development of Webform/MVC systems.Ex：<a style='cursor: pointer;' onclick=\"$('#modal-4').click()\">Enterprise Resource Planning System</a>, <a style='cursor: pointer;' onclick=\"$('#modal-3').click()\">Electronic Commerce System</a>, <a style='cursor: pointer;' onclick=\"$('#modal-5').click()\">Data Analysis System</a>, etc. In addition to improving technical skills, learn more about teamwork and communication skills. <br/><a href='#gallery'>More...</a>"
                 }
             
             ],
