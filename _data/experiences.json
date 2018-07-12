@@ -21,7 +21,7 @@
             {
                 "Year": "2015-2017",
                 "job": "Master of Computer Science and Information Engineering / <span>Fu Jen University</span>",
-                "desciption": "During the period of the Institute, in addition to academic research, in order to accumulate work experience I worked as a software engineer and managed time effectively.I also serve as a teaching assistant for telemedicine and telehealth services and web fundamentals . My research is about web traffic."
+                "desciption": "During the period of the Institute, in addition to academic research, in order to accumulate work experience I worked as a software engineer and managed time effectively.I also serve as a teaching assistant for telemedicine and telehealth services and web fundamentals . My research is about <a style='cursor: pointer;' onclick=\"$('#modal-1').click()\">web traffic</a>."
             }
         ,
         
