@@ -1,6 +1,18 @@
 {
     "en": [
         {
+            "id":"-1",
+            "image": "../images/azure-administrator-associate.png",
+            "title": "Microsoft Certified: Azure Administrator Associate",
+            "Description": "Microsoft Certified: Azure Administrator Associate</br>Valid Date: November 30, 2021"
+        },
+        {
+            "id":"0",
+            "image": "../images/azure-fundamentals-600x600.png",
+            "title": "Microsoft Certified: Azure Fundamentals",
+            "Description": "Microsoft Certified: Azure Fundamentals"
+        },
+        {
             "id":"1",
             "image": "../images/theses.png",
             "title": "Web Content Evaluation with Google Analytics",
@@ -52,11 +64,23 @@
         {
             "id":"9",
             "image": "../images/android.png",
-            "title": "Android Native App",
-            "Description": "1. Library Android application (Android 4.0+) serves as system analysis and main development <br/><br/>2. Case job about develop gambling games Android application (Android 5.0+) <br/><br/>3. Enterprise internal work management Application (Android 4.4+) Team collaboration development"
+            "title": "React Native",
+            "Description": "1.React Native serves as system analysis and main development <br/><br/>2. Enterprise internal work management Application (Android 4.4+) Team collaboration development"
         }
     ],
     "zh-tw": [
+        {
+            "id":"-1",
+            "image": "../images/azure-administrator-associate.png",
+            "title": "Microsoft Certified: Azure Administrator Associate",
+            "Description": "Microsoft Certified: Azure Administrator Associate</br>Valid Date: November 30, 2021"
+        },
+        {
+            "id":"0",
+            "image": "../images/azure-fundamentals-600x600.png",
+            "title": "Microsoft Certified: Azure Fundamentals",
+            "Description": "Microsoft Certified: Azure Fundamentals"
+        },
         {
             "id":"1",
             "image": "../images/theses.png",
@@ -109,8 +133,8 @@
         {
             "id":"9",
             "image": "../images/android.png",
-            "title": "Android Native App",
-            "Description": "1.圖書館書籍查詢APP(Android 4.0+)擔任系統分析及主要開發<br/><br/>2.個人接案開發博弈相關App(Android 5.0+)<br/><br/>3.企業內部工作管理App (Android 4.4+)團隊協作開發"
+            "title": "React Native",
+            "Description": "1.React Native Project<br/><br/>2.企業內部工作管理App (Android 4.4+)團隊協作開發"
         }
     ]
 }

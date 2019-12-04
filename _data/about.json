@@ -2,6 +2,7 @@
     "en":{
         "banner": {
             "Job_titles": [
+                "Full-Stack <i>Engineer.</i>",
                 "Software <i>Engineer.</i>",
                 "Web <i>Engineer.</i>",
                 "DevOps <i>Engineer.</i>"
@@ -14,7 +15,7 @@
         "aboutme": "I am a keyboard worker dedicated to software, program development and data analytics research.<br/>I am an extremely adaptive and organized person who likes to challenge and self-learning.<br/>I like to learn new things to cultivate different abilities. <br/>When in doubt, I can effectively find ways to solve problems and accumulate my experience.<br/>On the other hand, I am passionate about information technology and hope to make our lives better through information tools and technologies.",
         "name":"Shun-Bo,Hsu",
         "Email":"shbhsu@gmail.com",
-        "Experience":"+3 Years",
+        "Experience":"4+ Years",
         "Website":"https://resume.shun-bo.net",
         "Address":"New Taipei City, Taiwan",
         "Lat":"25.0090000",
@@ -24,6 +25,7 @@
     "zh-tw":{
             "banner": {
                 "Job_titles": [
+                    "Full-Stack <i>Engineer.</i>",
                     "Software <i>Engineer.</i>",
                     "Web <i>Engineer.</i>",
                     "DevOps <i>Engineer.</i>"
@@ -36,7 +38,7 @@
             "aboutme": "我是個致力於新興技術研究的鍵盤工作者<br/> <br/>我有清楚的邏輯能力且能夠適應資訊急速成長，喜歡挑戰和自我學習<br/> <br/>我喜歡學習新事物來培養不同的能力。 <br/>當遇到問題時，能夠有效地找到解決方法並積累經驗。<br/>另一方面，我熱衷於信息技術，希望通過信息工具和技術改善我們的生活。",
             "name":"Shun-Bo,Hsu",
             "Email":"shbhsu@gmail.com",
-            "Experience":"+3 Years",
+            "Experience":"4+ Years",
             "Website":"https://resume.shun-bo.net",
             "Address":"New Taipei City, Taiwan",
             "Lat":"25.0090000",

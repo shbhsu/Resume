@@ -2,7 +2,12 @@
     "en":
     {
         "Work_experiences": [
-            
+                {
+                    "Year": "2018-Now",
+                    "job": "Full-stack Engineer / <span>YILI software Development., LLC<span>",
+                    "desciption": "Professional System Development Services, digital gaming innovators "
+                }
+            ,
                 {
                     "Year": "2017-2018",
                     "job": "Software Engineer in (Alternative Military Service) / <span>PDIS (Public Digital Innovation Space)<span>",
@@ -35,6 +40,12 @@
     "zh-tw":
     {
         "Work_experiences": [
+                {
+                    "Year": "2018-Now",
+                    "job": "Full-stack Engineer / <span>YILI software Development., LLC<span>",
+                    "desciption": "Professional System Development Services, digital gaming innovators "
+                }
+            ,
             
                 {
                     "Year": "2017-2018",

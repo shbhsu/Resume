@@ -2,76 +2,58 @@
     "en": {
         
         "General": [
-            
-            "R Script",
-            "C++",
-            "Weka",
-            "Language Understanding (LUIS)",
-            "Data Warehouse",
+            "C#",
+            ".Net Core",
+            "React Native",
+            "Azure/Aws",
             "Google Analytics",
-            "Drupal",
             "Serverless",
-            "Git/TFS",
-            "Data Mining",
-            "Android(Java and Web App)",
             "Progressive web app",
+            "Git",
             "Jenkins"
         ],
         "Web": [
-            "HTML",
-            "CSS",
-            "Javascript",
+            "HTML/CSS/Javascript",
             "Responsive Web Design",
+            "React.js/Redux",
             "jQuery",
             "Jekyll",
             "Vue.js",
-            "React.js",
-            "Angular.js",
             "Node.js",
             "Socket.IO",
             "ASP.NET",
             "C#",
             "SQL Server",
-            "MySQL",
-            "Mongodb"
+            "MySQL"
         ]
     },
     "zh-tw": {
         
         
         "General": [
-            
-            "R Script",
-            "C++",
-            "Weka",
-            "Language Understanding (LUIS)",
-            "Data Warehouse",
+            "C#",
+            ".Net Core",
+            "React Native",
+            "Azure/Aws",
             "Google Analytics",
-            "Drupal",
             "Serverless",
-            "Git/TFS",
-            "Data Mining",
-            "Android(Java and Web App)",
             "Progressive web app",
+            "Git",
             "Jenkins"
         ],
         "Web": [
-            "HTML",
-            "CSS",
-            "Javascript",
+            "HTML/CSS/Javascript",
             "Responsive Web Design",
+            "React.js/Redux",
             "jQuery",
             "Jekyll",
             "Vue.js",
-            "React.js",
-            "Angular.js",
             "Node.js",
             "Socket.IO",
             "ASP.NET",
             "C#",
             "SQL Server",
-            "MySQL",
-            "Mongodb"
+            "MySQL"
         ]
     }
 }
